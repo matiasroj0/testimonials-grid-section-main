@@ -4,7 +4,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://sprightly-biscotti-4c9e3b.netlify.app/
 
 ### Screenshot
 
